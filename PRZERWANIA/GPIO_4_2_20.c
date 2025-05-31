@@ -50,6 +50,6 @@ int main (){
 		iMainLoopCtr++;
 		iMainLoopCtr++;
 		iMainLoopCtr++;
-		iMainLoopCtr++;//czy git dziala
+		iMainLoopCtr++;//czy git dziala doslownie 2
 	}
 }
